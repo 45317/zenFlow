@@ -1,0 +1,7 @@
+{
+  "name": "ZenFlow Productivity AI",
+  "description": "An all-in-one productivity suite featuring a real-time AI voice assistant, task management, notes, and event scheduling, powered by Gemini 2.5 Flash Native Audio.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
